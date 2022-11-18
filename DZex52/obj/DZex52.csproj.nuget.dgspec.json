@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\17.11.22\\seminar7\\DZex52\\DZex52.csproj": {}
+    "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\HomeWorkWminar7\\DZex52\\DZex52.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\17.11.22\\seminar7\\DZex52\\DZex52.csproj": {
+    "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\HomeWorkWminar7\\DZex52\\DZex52.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\17.11.22\\seminar7\\DZex52\\DZex52.csproj",
+        "projectUniqueName": "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\HomeWorkWminar7\\DZex52\\DZex52.csproj",
         "projectName": "DZex52",
-        "projectPath": "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\17.11.22\\seminar7\\DZex52\\DZex52.csproj",
+        "projectPath": "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\HomeWorkWminar7\\DZex52\\DZex52.csproj",
         "packagesPath": "C:\\Users\\tonay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\17.11.22\\seminar7\\DZex52\\obj\\",
+        "outputPath": "C:\\Users\\tonay\\OneDrive\\Рабочий стол\\HomeWorkWminar7\\DZex52\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonay\\AppData\\Roaming\\NuGet\\NuGet.Config",

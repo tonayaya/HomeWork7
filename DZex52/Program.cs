@@ -6,6 +6,8 @@
 
 // Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3
 
+Console.WriteLine($"Задача 52:");
+
 Console.WriteLine ("Введите число строк: ");
 int m = Convert.ToInt32 (Console.ReadLine());
 Console.WriteLine ("Введите число столбцов: ");
