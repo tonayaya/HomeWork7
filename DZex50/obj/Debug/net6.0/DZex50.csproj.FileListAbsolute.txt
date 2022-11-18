@@ -1,0 +1,15 @@
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\bin\Debug\net6.0\DZex50.exe
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\bin\Debug\net6.0\DZex50.deps.json
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\bin\Debug\net6.0\DZex50.runtimeconfig.json
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\bin\Debug\net6.0\DZex50.dll
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\bin\Debug\net6.0\DZex50.pdb
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\DZex50.csproj.AssemblyReference.cache
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\DZex50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\DZex50.AssemblyInfoInputs.cache
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\DZex50.AssemblyInfo.cs
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\DZex50.csproj.CoreCompileInputs.cache
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\DZex50.dll
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\refint\DZex50.dll
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\DZex50.pdb
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\DZex50.genruntimeconfig.cache
+C:\Users\tonay\OneDrive\Рабочий стол\17.11.22\seminar7\DZex50\obj\Debug\net6.0\ref\DZex50.dll
